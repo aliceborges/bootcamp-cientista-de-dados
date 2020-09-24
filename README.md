@@ -1,2 +1,5 @@
-# bootcamp-cientista-de-dados
-Repositório com os exercícios propostos pelo Bootcamp de Cientista de Dados, oferecido pela IGTI.
+## Bootcamp de Cientista de Dados
+### Ofertado pela IGTI
+##### Aluna: Alice Borges dos Santos
+
+Repositório feito com o motivo de colocar todos os exercícios propostos pelo curso.
